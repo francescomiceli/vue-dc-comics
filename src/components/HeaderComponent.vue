@@ -42,6 +42,7 @@ name : 'HeaderComponent'
             a{
                 text-decoration: none;
                 color: black;
+                text-transform: uppercase;
             }
             a:hover{
                 color: hsl(209deg 100% 49%);
